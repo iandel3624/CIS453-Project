@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ConnectionInstance from './connection-instance';\nexport var getAuthorDetail = function getAuthorDetail(id) {\n  return ConnectionInstance.get('author/' + id);\n};","map":null,"metadata":{},"sourceType":"module"}

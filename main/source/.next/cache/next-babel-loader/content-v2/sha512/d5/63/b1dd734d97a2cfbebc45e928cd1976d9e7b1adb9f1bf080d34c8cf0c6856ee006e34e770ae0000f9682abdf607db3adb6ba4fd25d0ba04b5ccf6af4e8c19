@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var SECTION_SPACING = 70;","map":{"version":3,"sources":["C:/Users/Ian/Desktop/ECPI CIS/CIS453/Week 1/Lab/CIS435 React Lab/main/source/src/common/variables/index.tsx"],"names":["SECTION_SPACING"],"mappings":"AAAA,OAAO,IAAMA,eAAe,GAAG,EAAxB","sourcesContent":["export const SECTION_SPACING = 70;\n"]},"metadata":{},"sourceType":"module"}
